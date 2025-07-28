@@ -5,7 +5,7 @@ class Student{
      char grade;
 
     // TODO: Create a method to display student details
-     publiv void displayDetails(){
+     public void displayDetails(){
           System.out.println("Name: "+name);
           System.out.println("Roll NUmber: "+rollNumber);
           System.out.println("Grade: "+grade);
